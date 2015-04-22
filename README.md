@@ -11,8 +11,7 @@
  = @author Dr Noureddin Sadawi 
    
  =  This program is free software: you can redistribute it and/or modify
- 
- =  it as you wish ONLY for legal and ethical purposes
+   it as you wish ONLY for legal and ethical purposes
   
  =  I ask you only, as a professional courtesy, to cite my name, web page 
     and my YouTube Channel!
